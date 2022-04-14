@@ -1,12 +1,16 @@
 ## Wei Cao (曹巍)
-**Lecturer**
-China University of Petroleum![image](https://user-images.githubusercontent.com/40993176/163380762-e1265718-ec5e-4c3b-9a94-44db395f614b.png)
+**Lecturer**, 
+[College of Computer Science and Technology](http://computer.upc.edu.cn/), China University of Petroleum, Qingdao, Shandong
 
-You can use the [editor on GitHub](https://github.com/KiraWCao/kirawcao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+中国石油大学 (华东)，青岛软件学院、计算机科学与技术学院，讲师
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Email**: caowei.family@qq.com
 
-### Markdown
+### About Me
+
+**Wei Cao** received her Doctor's degree from the University of Macau(2021). Before that, she received Bachelor's degree and Master's degree from Sichuan University, in 2012 and 2015. In Aug. 2021, she jointed the College of Computer Science and Technology, China University of Petroleum (East China) as a Lecturer.
+
+Her research interests include Computer Graphics, Virtual Reality, Physical-based Simulation, Deformation Animation, Fluid Simulation.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -32,8 +36,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KiraWCao/kirawcao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
