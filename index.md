@@ -1,5 +1,7 @@
 ## Wei Cao (曹巍)
 **Lecturer**
+China University of Petroleum![image](https://user-images.githubusercontent.com/40993176/163380762-e1265718-ec5e-4c3b-9a94-44db395f614b.png)
+
 You can use the [editor on GitHub](https://github.com/KiraWCao/kirawcao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
