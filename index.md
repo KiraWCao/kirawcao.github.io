@@ -29,9 +29,7 @@ Computer Graphics, Virtual Reality, Physical-based Simulation, Deformation Anima
 
 ### Demo
 
+[cute little cow](https://user-images.githubusercontent.com/40993176/163405644-b11a60e3-ec29-4cfb-9483-cbad5e096d26.mp4)
 
-https://user-images.githubusercontent.com/40993176/163405644-b11a60e3-ec29-4cfb-9483-cbad5e096d26.mp4
-
-
-https://user-images.githubusercontent.com/40993176/163405793-64c25d5b-eb4c-48cb-a9d8-1932435b169e.mp4
+[super heal cut sausage](https://user-images.githubusercontent.com/40993176/163405793-64c25d5b-eb4c-48cb-a9d8-1932435b169e.mp4)
 
