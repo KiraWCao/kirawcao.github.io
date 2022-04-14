@@ -1,3 +1,4 @@
+![UPCLogo](https://user-images.githubusercontent.com/40993176/163389113-c874cf03-9e2f-435d-babd-32e3c4c04a6f.png)
 ## Wei Cao (曹巍)
 **Lecturer**, 
 [College of Computer Science and Technology](http://computer.upc.edu.cn/), China University of Petroleum, Qingdao, Shandong
@@ -25,25 +26,4 @@ Computer Graphics, Virtual Reality, Physical-based Simulation, Deformation Anima
 7. Luan Lyu, Xiaohua Ren, **Wei Cao**, Jian Zhu, Enhua Wu. “Adaptive Narrow Band MultiFLIP for Efficient Two-Phase Liquid Simulation”. _SCIENCE CHINA Information Sciences_, 2018.
 8. Xiaohua Ren, Luan Lyu, Xiaowei He, **Wei Cao**, Zhixin Yang, Bin Sheng, Yanci Zhang, Enhua Wu. “Biorthogonal Wavelet Surface Reconstruction Using Partial Integrations”. _Computer Graphics Forum_, 2018. Pacific Graphics 2018.
 9. **曹巍**, 吴恩华. “本构模型在基于物理的变形模拟中的应用”. 郑州大学学报(理学版), 2018.
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
