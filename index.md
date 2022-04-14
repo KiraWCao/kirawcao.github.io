@@ -27,3 +27,11 @@ Computer Graphics, Virtual Reality, Physical-based Simulation, Deformation Anima
 8. Xiaohua Ren, Luan Lyu, Xiaowei He, **Wei Cao**, Zhixin Yang, Bin Sheng, Yanci Zhang, Enhua Wu. “Biorthogonal Wavelet Surface Reconstruction Using Partial Integrations”. _Computer Graphics Forum_, 2018. Pacific Graphics 2018.
 9. **曹巍**, 吴恩华. “本构模型在基于物理的变形模拟中的应用”. 郑州大学学报(理学版), 2018.
 
+### Demo
+
+
+https://user-images.githubusercontent.com/40993176/163405644-b11a60e3-ec29-4cfb-9483-cbad5e096d26.mp4
+
+
+https://user-images.githubusercontent.com/40993176/163405793-64c25d5b-eb4c-48cb-a9d8-1932435b169e.mp4
+
