@@ -9,7 +9,7 @@
 
 ### About Me
 
-**Wei Cao** received her Doctor's degree from the University of Macau in 2021. Before that, she received Bachelor's degree and Master's degree from Sichuan University in 2012 and 2015. In Aug. 2021, she jointed the College of Computer Science and Technology, China University of Petroleum (East China) as a Lecturer.
+**Wei Cao** received her Doctor's degree from the University of Macau in 2021. Before that, she received Bachelor's degree and Master's degree from Sichuan University in 2012 and 2015. In Aug. 2021, she jointed the College of Computer Science and Technology, China University of Petroleum as a Lecturer.
 
 ### Research Interests
 
